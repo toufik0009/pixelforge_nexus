@@ -76,7 +76,7 @@ cd server
 npm install
 npm run dev
 ```
-###3️⃣ Frontend Setup
+### 3️⃣ Frontend Setup
 ```bash
 cd client
 npm install
