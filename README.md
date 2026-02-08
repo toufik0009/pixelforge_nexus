@@ -68,7 +68,7 @@ The project follows industry best practices for scalability, security, and maint
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/pixelforge-nexus.git
+https://github.com/toufik0009/pixelforge_nexus.git
 ```
 ### 2️⃣ Backend Setup
 ```bash
